@@ -1,0 +1,9 @@
+Name: Amber 
+ Address: 123 East St
+ GPA: 3.6
+Name: Igor 
+ Address: 951 43rd ave 
+ GPA: 4.0
+Name: John
+ Address: 123 main st
+ GPA: 3.2
